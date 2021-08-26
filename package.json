@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/leandrobudau/maya-mc/issues"
   },
-  "homepage": "https://github.com/leandrobudau/maya-mc#readme"
+  "homepage": "https://github.com/leandrobudau/maya-mc#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
